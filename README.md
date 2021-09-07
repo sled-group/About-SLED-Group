@@ -1,10 +1,10 @@
 # SLED Research Lab @ University of Michigan
 
 ## Overview
-Language use in human communication is shaped by our goals, our shared experiences, and our understanding of each other’s abilities, knowledge, and beliefs. At the [**S**ituated **L**anguage and **E**mbodied **D**ialogue (SLED) lab](https://sled.eecs.umich.edu/) (formerly, the [LAIR group](http://lair.cse.msu.edu/)), we develop computational models for language processing that take into account the rich situational and communicative context and build embodied AI agents that can communicate with humans in language.
+Language use in human communication is shaped by our goals, our shared experiences, and our understanding of each other’s abilities, knowledge, and beliefs. At the [**S**ituated **L**anguage and **E**mbodied **D**ialogue (SLED) group](https://sled.eecs.umich.edu/) (formerly, the [LAIR group](http://lair.cse.msu.edu/)), we develop computational models for language processing that take into account the rich situational and communicative context and build embodied AI agents that can communicate with humans in language.
 
 ## News
-- [Aug. 2021] SLED lab has 3 papers accepted to EMNLP 2021! Congrats to Shane and Paul! 🙌🙌
+- [Aug. 2021] SLED has 3 papers accepted to EMNLP 2021! Congrats to Shane and Paul! 🙌🙌
 - [June 2021] Congratulations to Emily and Shane for successfully passing the prelim exam!!
 - [Apr. 2021] Very excited to have Ziqiao (Martin) Ma and Jianing (Jed) Yang join SLED in Fall 2021!
 - [Oct. 2020] Congratulations to Paul for successfully passing the prelim exam!!
