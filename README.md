@@ -9,6 +9,20 @@ Language use in human communication is shaped by our goals, our shared experienc
 - [Apr. 2021] Very excited to have Ziqiao (Martin) Ma and Jianing (Jed) Yang join SLED in Fall 2021!
 - [Oct. 2020] Congratulations to Paul for successfully passing the prelim exam!!
 
+## Current Members
+
+### Faculty
+[Joyce Y. Chai](https://web.eecs.umich.edu/~chaijy/)
+
+### Ph.D. Students
+[Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-bara/)
+[Keunwoo Peter Yu](https://sled.eecs.umich.edu/author/keunwoo-peter-yu/)
+[Yuwei Emily Bao](http://www-personal.umich.edu/~yuweibao/)
+[Shane Storks](http://www.shanestorks.com/)
+[Yichi Zhang](https://sled.eecs.umich.edu/author/yichi-zhang/)
+[Jianing Jed Yang](https://jedyang.com/)
+[Ziqiao Martin Ma](https://mars-tin.github.io/)
+
 ## Research
 ### Mission Statement
 We develop computational models for language processing that takes into account the rich situational and communicative context and build embodied AI agents that can communicate with humans in language.
