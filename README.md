@@ -12,16 +12,16 @@ Language use in human communication is shaped by our goals, our shared experienc
 ## Current Members
 
 ### Faculty
-[Joyce Y. Chai](https://web.eecs.umich.edu/~chaijy/)
+- [Joyce Y. Chai](https://web.eecs.umich.edu/~chaijy/)
 
 ### Ph.D. Students
-[Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-bara/)
-[Keunwoo Peter Yu](https://sled.eecs.umich.edu/author/keunwoo-peter-yu/)
-[Yuwei Emily Bao](http://www-personal.umich.edu/~yuweibao/)
-[Shane Storks](http://www.shanestorks.com/)
-[Yichi Zhang](https://sled.eecs.umich.edu/author/yichi-zhang/)
-[Jianing Jed Yang](https://jedyang.com/)
-[Ziqiao Martin Ma](https://mars-tin.github.io/)
+- [Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-bara/)
+- [Keunwoo Peter Yu](https://sled.eecs.umich.edu/author/keunwoo-peter-yu/)
+- [Yuwei Emily Bao](http://www-personal.umich.edu/~yuweibao/)
+- [Shane Storks](http://www.shanestorks.com/)
+- [Yichi Zhang](https://sled.eecs.umich.edu/author/yichi-zhang/)
+- [Jianing Jed Yang](https://jedyang.com/)
+- [Ziqiao Martin Ma](https://mars-tin.github.io/)
 
 ## Research
 ### Mission Statement
