@@ -52,5 +52,6 @@ Using situated dialogue (in virtual world) and conversational interfaces as our 
     We expect you to commit **at least 15 hours per week** to gain meaningful research experience. If you are chosen for the position, you will need to take [*EECS X99*: Independent Studies](https://ece.engin.umich.edu/academics/undergraduate-programs/advising/advising-office/ug-faqs/) for this research experience: 
     - **Credits**: 3 credits for 15 hours per week; and 4 credits for 20 hours per week.
     - **Registration**: [EECS 399](https://ece.engin.umich.edu/wp-content/uploads/sites/4/2021/01/EECS-399-Form.pdf) for students below senior standing (less than 85 CTP); [EECS 499](https://ece.engin.umich.edu/wp-content/uploads/sites/4/2021/01/EECS-499-Form.pdf) for senior standing; and *EECS 599* for master students. 
-  Responses may be slow due to the volume of applications we received. Positions are offered upon availability and qualification.
+
+Responses may be slow due to the volume of applications we received. Positions are offered upon availability and qualification.
 
