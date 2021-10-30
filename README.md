@@ -3,7 +3,13 @@
 ## Overview
 Language use in human communication is shaped by our goals, our shared experiences, and our understanding of each other’s abilities, knowledge, and beliefs. At the [**S**ituated **L**anguage and **E**mbodied **D**ialogue (SLED) group](https://sled.eecs.umich.edu/) (formerly, the [LAIR group](http://lair.cse.msu.edu/)), we develop computational models for language processing that take into account the rich situational and communicative context and build embodied AI agents that can communicate with humans in language.
 
+## Contact Info
+- Location: Bob and Betty Beyster Building 3632, 2260 Hayward Street, Ann Arbor, MI 48109.
+- Email: sled-assistant@umich.edu
+
 ## News
+- [Oct. 2021] Our work MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks is selected as the Outstanding Paper of EMNLP 2021! Congratulations to Paul!!
+- [Oct. 2021] Congratulations to Yichi for successfully passing the prelim exam!!
 - [Aug. 2021] SLED has 3 papers accepted to EMNLP 2021! Congrats to Shane and Paul! 🙌🙌
 - [June 2021] Congratulations to Emily and Shane for successfully passing the prelim exam!!
 - [Apr. 2021] Very excited to have Ziqiao (Martin) Ma and Jianing (Jed) Yang join SLED in Fall 2021!
@@ -23,6 +29,8 @@ Language use in human communication is shaped by our goals, our shared experienc
 - [Jianing Jed Yang](https://jedyang.com/)
 - [Ziqiao Martin Ma](https://mars-tin.github.io/)
 
+A list of active assitants and alumni can be found [here](https://sled.eecs.umich.edu/people/).
+
 ## Research
 ### Mission Statement
 We develop computational models for language processing that takes into account the rich situational and communicative context and build embodied AI agents that can communicate with humans in language.
@@ -33,17 +41,13 @@ With the emergence of a new generation of cognitive robots, the capability to co
 ### Situated Human Robot Dialogue
 A new generation of interactive robots have emerged in recent years to provide service, care, and companionship for humans. To support natural interaction between a human and these robots, technology enabling situated dialogue becomes increasingly important. Situated dialogue is drastically different from traditional spoken dialogue systems, multimodal conversational interfaces, and tele-operated human robot interaction. In situated human robot dialogue, human partners and robots are situated and co-present in a shared physical environment. The shared surrounding significantly affects how they interact with each other and how the robot interprets human language and performs tasks. In the last couple years, we have started a couple projects on situated human robot dialogue, particularly focusing on how the situated-ness affects human robot language based interaction, and thus techniques for situated language processing and conversation grounding.
 
-### Semantic and Discourse Processing
+### Commonsense Reasoning, Semantic and Discourse Processing
 Given a large amount of textual data (e.g., news articles, Wikipedia, weblogs, etc.) available online, it has become increasingly important for techniques that can automatically process this data, for example, to extract event information, to answer user questions, and to make inferences. Along these lines, we are particularly interested in the role of discourse and pragmatics in natural language processing and their applications.
 
 ### Situated and Multimodal Language Processing in Virtual World
 Using situated dialogue (in virtual world) and conversational interfaces as our setting, we have investigated the use of non-verbal modalities (e.g., eye gaze and gestures) in language processing and in conversation grounding. The virtual world setting not only has important applications in education, training, and entertainment; but also provides a simplified simulation environment to support studies on situated language processing towards physical world interaction.
 
-## Contact Info
-- Location: Bob and Betty Beyster Building 3632, 2260 Hayward Street, Ann Arbor, MI 48109.
-- Email: sled-assistant@umich.edu
-
-### Prospective Students
+## Prospective Students
 - **PhD students**: 
   Please [apply to the CSE department](http://www.cse.umich.edu/eecs/graduate/cse/apply/).
 - **Masters/Undergraduates/Visitors**: 
